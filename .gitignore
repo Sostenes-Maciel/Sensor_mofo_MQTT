@@ -1,0 +1,12 @@
+# Arquivos de segredos
+secrets.h
+
+# Arquivos temporários e de compilação da Arduino IDE
+*.bin
+*.elf
+*.hex
+*.lst
+
+# Arquivos de IDEs e do sistema
+.vscode/
+.DS_Store
