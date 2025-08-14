@@ -21,7 +21,6 @@ Crie um arquivo chamado secrets.h na mesma pasta.
 Dentro dele, adicione suas credenciais de Wi-Fi:
 const char* ssid = "Seu-Nome-Do-Wi-Fi";
 const char* password = "Sua-Senha-Do-Wi-Fi";
-Adicione o arquivo secrets.h ao seu .gitignore para que ele não seja enviado ao repositório.
 
 3.
 Fazer o Upload para o ESP32:
